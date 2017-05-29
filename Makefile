@@ -1,4 +1,4 @@
-NAME = ctindel/unifi-controller
+NAME = fxstein/unifi
 VERSION = 5.4.16
 UNIFI_DEB_URL=http://dl.ubnt.com/unifi/$(VERSION)/unifi_sysvinit_all.deb
 
